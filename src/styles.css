@@ -34,3 +34,11 @@ body {
   width: 300px;
   height: 300px;
 }
+
+.Load{
+  font-family: "Trebuchet MS";
+  padding: 1rem;
+  font-weight: bolder;
+  color: white;
+  background-color: royalblue;
+}
