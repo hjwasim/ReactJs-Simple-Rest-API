@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  /* letter-spacing:1px; */
+  font-weight: bold;
+  font-size: 1rem;
+}
+.btn {
+  font-family: "Trebuchet MS";
+  padding: 1rem;
+  font-weight: bolder;
+  color: white;
+  background-color: royalblue;
+}
+.header {
+  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  padding: 50px;
+  position: relative;
+  bottom: 25px;
+  color: white;
+  cursor: pointer;
+}
+.img {
+  width: 300px;
+  height: 300px;
+}
